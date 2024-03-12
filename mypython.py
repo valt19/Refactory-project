@@ -16,6 +16,8 @@ print(school)
 # innitializing variables is the process of giving variables a value,eg (age is a variable,26 is its value)
 cntry = "uganda"
 # the '=' sign is called the assignment 
+
+#datatypes
 # datatypes in python (numeric,string,sequence,mapping,boolean,set,)
 #numeric(int,float,complex)
 num1 = 19
