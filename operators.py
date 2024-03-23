@@ -41,3 +41,45 @@ print(num1)
 #division assignment
 num1/=2
 print(num1)
+
+#boolean datatype(true/false ,yes/no ,0/1, on/off)
+#comparison operators,these compare two values
+comp1=100
+comp2="val"
+print(comp1 ==comp2)
+# you start with !(exclamation mark)=(eaqual)
+print(comp1 !=comp2)
+#two equal signs are used to compare two values
+#greater than/less than comparison
+#print(comp1 < comp2)
+#print(comp1 > comp2)
+#greater than or equal to
+print(10 <= 20)
+#logical and
+print(True and True)
+print(True and False)
+#logical or
+print(True or False)
+#logical not
+print(not True)
+#atleast each sentence will have an operator as we do programming
+
+#membership operators are in/out in
+mylist = [10,20,30,40,50,]
+print(10 in mylist)
+print(100 in mylist)
+print(10 not in mylist)
+
+#identity operators
+mylist2 = [10,20,30,40,50]
+print(mylist is not mylist2)
+print(mylist is  mylist2)
+
+#simple assignment, read about bit-wise operators
+#a statement that evaluates to a value is called an expression
+# a value in programming is called an operand
+#an operator acts upon an operand
+
+#loops & conditions
+#loop repeatedly do something untila condition is false and this will trigger the
+
